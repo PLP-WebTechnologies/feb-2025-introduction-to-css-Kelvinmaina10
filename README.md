@@ -37,9 +37,3 @@ footer {
     margin-top: 20px; /* Space above footer */
 }
 
-# Tasks
- - Link an external CSS file.
- - Apply at least 3 different selectors.
- - Improve readability and aesthetics.
-
-Happy Coding! 💻✨
